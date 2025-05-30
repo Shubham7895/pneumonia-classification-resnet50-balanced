@@ -1,4 +1,4 @@
-# Pneumonia Classification using ResNet-50
+# pneumonia-classification-resnet50-balanced
 
 This project implements fine-tuning of a ResNet-50 model for classifying pneumonia from chest X-ray images using the MedMNIST Pneumonia dataset.
 
